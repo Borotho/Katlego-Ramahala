@@ -8,7 +8,7 @@ Programming and Analysis: Python (including libraries for validation and visuali
 Database Management Systems: PostgreSQL, IBM Db2, MongoDB.
 Cloud Platforms and Analytics: Azure Services.
 Reporting and Project Management: Microsoft Office Suite, Jira, Confluence.
-Modeling and Forecasting: Frameworks for data modeling and predictive analytics.  show picture after each description. 
+Modeling and Forecasting: Frameworks for data modeling and predictive analytics. 
 
 - 📫 How to reach me by email: katborotho@gmail.com
 
